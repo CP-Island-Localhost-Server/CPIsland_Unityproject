@@ -58,6 +58,6 @@ MonoBehaviour:
   - Video
   - EditorWindows
   - Assembly-CSharp
-  Platform: standalonewindows
+  Platform: standaloneosx
   BuildTargetGroup: standalone
   BuildPhase: rc
